@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trang Dự Án</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với Dự Án của Tôi</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Trang chủ</a></li>
+        <li><a href="#">Giới thiệu</a></li>
+        <li><a href="#">Dịch vụ</a></li>
+        <li><a href="#">Liên hệ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Chúng tôi mang đến giải pháp sáng tạo</h2>
+      <p>Thiết kế hiện đại, thân thiện và phản hồi nhanh trên mọi thiết bị.</p>
+      <a href="#" class="button">Tìm hiểu thêm</a>
+    </section>
+
+    <section class="features">
+      <div class="feature">
+        <h3>Hiệu suất cao</h3>
+        <p>Trang tải nhanh và tối ưu cho SEO.</p>
+      </div>
+      <div class="feature">
+        <h3>Thiết kế linh hoạt</h3>
+        <p>Hiển thị tốt trên mọi màn hình.</p>
+      </div>
+      <div class="feature">
+        <h3>Dễ bảo trì</h3>
+        <p>Cấu trúc mã rõ ràng, dễ nâng cấp.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Dự Án của Tôi. Mọi quyền được bảo lưu.</p>
+  </footer>
+</body>
+</html>
